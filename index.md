@@ -3,14 +3,17 @@
 
 ### GGJ2022に参加して作成した作品
 
-[Sweeteat](https://globalgamejam.org/2022/games/sweeteat-5)  
+ゲームページへのリンクは[**こちら**](https://globalgamejam.org/2022/games/sweeteat-5)  
+
 ![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/446656/amateur_eater_club_2022_01_30_16_50_09.png?itok=9xZeoCjP&timestamp=1643529082)  
 担当箇所：  
 ステージとスイーツの3Dモデル作成
 
 
 ### 学内で発表したゲーム
-ピタッとダンス  
+
+まだ、ゲームページへのリンクはありません
+
 ![](https://user-images.githubusercontent.com/74404144/171362268-cecff355-0143-42dd-bbe5-4a09a768a617.gif)  
 担当箇所：  
 Photonを利用したネットワーク通信とルーム作成  
@@ -25,7 +28,8 @@ Photonによるオブジェクトの同期処理
 
 ### 1週間ゲームジャム参加作品
 Unityroomで開催されていたゲームジャムに投稿した作品です  
-[C.U.B.E](https://unityroom.com/games/c_u_b_e)
+
+ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)
 
 ![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)
 
