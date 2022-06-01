@@ -1,5 +1,5 @@
 # スケユーのポートフォリオ
-##チーム開発
+## チーム開発
 ### 1週間ゲームジャム参加作品
 Unityroomで開催されていたゲームジャムに投稿した作品です  
 [C.U.B.E](https://unityroom.com/games/c_u_b_e)
@@ -9,8 +9,8 @@ Unityroomで開催されていたゲームジャムに投稿した作品です
 
 ### GGJ2022に参加して作成した作品
 
-[Sweeteat](https://globalgamejam.org/2022/games/sweeteat-5)
-
+[Sweeteat](https://globalgamejam.org/2022/games/sweeteat-5)  
+![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/446656/amateur_eater_club_2022_01_30_16_50_09.png?itok=9xZeoCjP&timestamp=1643529082)
 
 
 ### Markdown
