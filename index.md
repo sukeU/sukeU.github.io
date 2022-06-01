@@ -33,9 +33,9 @@ Photonによるオブジェクトの同期処理
 ### 1週間ゲームジャム参加作品
 Unityroomで開催されていたゲームジャムに投稿した作品です  
 
-開発時期　2022/5/2 ~ 2022/5/8
-開発期間　1週間    
-ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)
+開発時期　2022/5/2 ~ 2022/5/8  
+開発期間　1週間  
+ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)  
 
 ![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)
 
