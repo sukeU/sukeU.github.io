@@ -8,7 +8,7 @@
 
 
 ### 学内で発表したゲーム
-ピタッとダンス　　
+ピタッとダンス  
 ![](https://user-images.githubusercontent.com/74404144/171362268-cecff355-0143-42dd-bbe5-4a09a768a617.gif)
 
 
