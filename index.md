@@ -1,11 +1,5 @@
 # スケユーのポートフォリオ
 ## チーム開発
-### 1週間ゲームジャム参加作品
-Unityroomで開催されていたゲームジャムに投稿した作品です  
-[C.U.B.E](https://unityroom.com/games/c_u_b_e)
-
-![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)
-
 
 ### GGJ2022に参加して作成した作品
 
@@ -13,9 +7,19 @@ Unityroomで開催されていたゲームジャムに投稿した作品です
 ![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/446656/amateur_eater_club_2022_01_30_16_50_09.png?itok=9xZeoCjP&timestamp=1643529082)
 
 
-### Markdown
+### 学内で発表したゲーム
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+## 個人開発
+
+### 1週間ゲームジャム参加作品
+Unityroomで開催されていたゲームジャムに投稿した作品です  
+[C.U.B.E](https://unityroom.com/games/c_u_b_e)
+
+![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)
+
+
 
 ```markdown
 Syntax highlighted code block
