@@ -44,8 +44,8 @@ Unityroomで開催されていたゲームジャムに投稿した作品です
 開発時期　2021/10 ~ 2021/11  
 開発期間　約1か月  
 
-![](https://user-images.githubusercontent.com/74404144/171369432-a72d01c2-df60-41b4-b6cb-297ce29e4f37.gif)
-
+![](https://user-images.githubusercontent.com/74404144/171369432-a72d01c2-df60-41b4-b6cb-297ce29e4f37.gif)  
+ゲームのダウンロードは[**こちら**](https://github.com/sukeU/MeiteiTrampoline/releases/tag/v1.0.0)
 
 ```markdown
 Syntax highlighted code block
