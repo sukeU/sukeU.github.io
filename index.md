@@ -41,37 +41,11 @@ Unityroomで開催されていたゲームジャムに投稿した作品です
 
 ### 学内で発表したゲーム
 
-開発時期　2021/10 ~ 2021/11  
-開発期間　約1か月  
+開発時期　2021/11/11 ~ 2022/1/20  
+開発期間　約2か月  
 
 ![](https://user-images.githubusercontent.com/74404144/171369432-a72d01c2-df60-41b4-b6cb-297ce29e4f37.gif)  
 gitHubページは[**こちら**](https://github.com/sukeU/MeiteiTrampoline/tree/main)  
 ゲームのダウンロードは[**こちら**](https://github.com/sukeU/MeiteiTrampoline/releases/tag/v1.0.0)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sukeU/sukeU.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
