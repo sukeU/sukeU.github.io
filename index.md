@@ -8,12 +8,20 @@ C++     : [★★☆☆☆]  java    : [★★☆☆☆]
 UnityとC#は独学やサークルで学び、Unityでのチーム開発を学内で4回、学外で1回経験しました。チーム開発でのGitHubのリポジトリの管理やコンフリクト解消も主導した経験があります。
 そして、AdobeXDやBlenderを使用して必要な素材を作成することもあります。
 
-
 ## ピタッとダンス
 
 開発時期　2022/2/1 ~ 2022/2/26  
 開発期間　約3週間　　開発環境　Unity　Visualstudio 2019　GitHub　SourceTree　Miro  
 ※現在はゲームリンクがありません※  
+
+担当箇所：  
+企画　システム提案
+Photonを利用したネットワーク通信とルーム作成  
+Photonによるオブジェクトの同期処理  
+プレイヤーネームを保持して表示するシステム  
+シーンやページの遷移関連  
+
+![](https://user-images.githubusercontent.com/74404144/171362268-cecff355-0143-42dd-bbe5-4a09a768a617.gif)  
 
 自宅にいながらでも複数人で楽しむ事ができる、ユニークで魅力的なゲームを企画し、開発するという目標に合う**オンラインゲーム**を作りました。  
 コンセプト：複数人のプレイヤーが、劇場で磁石を操作して、マリオネットを躍らせる2D協力型ダンスゲーム　
@@ -22,15 +30,6 @@ UnityとC#は独学やサークルで学び、Unityでのチーム開発を学�
 ブラウザでプレイができるため、PCにゲームをダウンロードしなくてもプレイできます。  
 
 
-![](https://user-images.githubusercontent.com/74404144/171362268-cecff355-0143-42dd-bbe5-4a09a768a617.gif)  
-
-
-担当箇所：  
-企画　システム提案
-Photonを利用したネットワーク通信とルーム作成  
-Photonによるオブジェクトの同期処理  
-プレイヤーネームを保持して表示するシステム  
-シーンやページの遷移関連  
 
 ## C.U.B.E
 
@@ -48,20 +47,29 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 
 ![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)  
 
+
+## 開発中のVRゲーム
+開発時期　2022/3/25 ~   開発中　　開発環境　Unity　Visualstudio2019  OculusQuest2
+
+バーチャルリアル脱出ゲームをコンセプトに制作している作品です。
+OpenXRを利用してOculusQuest2での開発をしています。操作方法はグリップとトリガーのみの動作で
+
 ## Sweeteat
 
 開発時期　2022/1/28 ~ 2022/1/30  
 開発期間　3日間　　開発環境　Unity　Visualstudio 2017　GitHub　SourceTree　Miro  Slack  
 ゲームページへのリンクは[**こちら**](https://globalgamejam.org/2022/games/sweeteat-5)  
 
-食いしん棒を切り替えて、流れてくるスイーツを食べまくるゲーム
-
-![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/446656/amateur_eater_club_2022_01_30_16_50_09.png?itok=9xZeoCjP&timestamp=1643529082)  
 担当箇所：  
 企画　
 パーティクルの作成と実装　
 ステージとスイーツの3Dモデル作成
 
+![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/446656/amateur_eater_club_2022_01_30_16_50_09.png?itok=9xZeoCjP&timestamp=1643529082)  
+
+
+食いしん棒を切り替えて、流れてくるスイーツを食べまくるゲームです。
+スイーツのモデルやパーティクルなどのビジュアル面を統一し、ポップな世界観を印象付けました。
 
 
 
