@@ -54,6 +54,8 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 バーチャルリアル脱出ゲームをコンセプトに制作している作品です。
 OpenXRを利用してOculusQuest2での開発をしています。操作方法はグリップとトリガーのみの動作で
 
+![VR001](https://user-images.githubusercontent.com/74404144/172282540-12a9dead-2c8d-4484-b939-7acd3c37ed36.gif)
+
 ## Sweeteat
 
 開発時期　2022/1/28 ~ 2022/1/30  
