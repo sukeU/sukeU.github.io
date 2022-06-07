@@ -51,10 +51,14 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 ## 開発中のVRゲーム
 開発時期　2022/3/25 ~   開発中　　開発環境　Unity　Visualstudio2019  OculusQuest2
 
-バーチャルリアル脱出ゲームをコンセプトに制作している作品です。
-OpenXRを利用してOculusQuest2での開発をしています。操作方法はグリップとトリガーのみの動作で
 
 ![VR001](https://user-images.githubusercontent.com/74404144/172282540-12a9dead-2c8d-4484-b939-7acd3c37ed36.gif)
+![VR002](https://user-images.githubusercontent.com/74404144/172284483-f5e557ac-e22c-4a0a-b8b1-5a72dfc51184.gif)
+![VR003](https://user-images.githubusercontent.com/74404144/172285114-6785de9f-4c69-486f-bcd5-198dd4aaf22d.gif)
+
+バーチャルリアル脱出ゲームをコンセプトに制作している作品です。
+OpenXRを利用してOculusQuest2での開発をしています。  操作方法はグリップとトリガーとアナログスティック操作のみ。  
+物の見え方が変わるアイテムを使用することで、見えなかったヒントが見えるようになります。
 
 ## Sweeteat
 
