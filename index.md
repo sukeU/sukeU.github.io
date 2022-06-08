@@ -35,7 +35,14 @@ Photonによるオブジェクトの同期処理
 
 開発時期　2022/5/2 ~ 2022/5/8  
 開発期間　1週間   　開発環境　Unity　Visualstudio 2019  
-ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)
+ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)  
+
+担当箇所：  
+企画　プログラム、UIデザイン
+イラスト作成、アニメーション作成  
+
+
+![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)  
 
 Unityroomで開催されていたゲームジャムに投稿した作品です。  
 マス目マップの2Dアクションパズルをコンセプトに1週間で作り上げるという目標を持って取り組みました。  
@@ -45,7 +52,6 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 ステージ数は全16ステージで、どのステージも最初から解放されているため、難しいステージは飛ばして次のステージに挑戦することが可能になっています。
 
 
-![](https://user-images.githubusercontent.com/74404144/171217871-2133c546-9de9-41eb-b382-59a867f33fe1.gif)  
 
 
 ## 開発中のVRゲーム
@@ -91,4 +97,4 @@ OpenXRを利用してOculusQuest2での開発をしています。  操作方法
 
 ![](https://user-images.githubusercontent.com/74404144/171369432-a72d01c2-df60-41b4-b6cb-297ce29e4f37.gif)  
 
-泥
+泥酔した人がトランポリンから
