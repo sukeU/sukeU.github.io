@@ -1,17 +1,19 @@
 
 ## スキル  
-```
-Unity   : [★★★★☆]  C#      : [★★★★☆]  GitHub  : [★★★☆☆]
-AdobeXD : [★★☆☆☆]  Blender : [★★☆☆☆]  C       : [★★☆☆☆] 
-C++     : [★★☆☆☆]  java    : [★★☆☆☆] 
-```
-UnityとC#は独学やサークルで学び、Unityでのチーム開発を学内で4回、学外で1回経験しました。チーム開発でのGitHubのリポジトリの管理やコンフリクト解消も主導した経験があります。
-そして、AdobeXDやBlenderを使用して必要な素材を作成することもあります。
+
+||Unity|C#|GitHub|Blender|AdobeXD|C|C++|java|
+| --- | --- | --- | --- | --- | --- | --- | --- |--- |
+| 経験年数| 　　2年　　| 　　2年　　| 　　1年半　　| 　　1年半　　| 　　1年　　| 　　1年　　| 　　半年　　| 　　半年　　|
+| スキル |★★★★☆|★★★★☆|★★★☆☆|★★☆☆☆|★★☆☆☆|★★☆☆☆|★★☆☆☆|★☆☆☆☆|   
+
+UnityとC#は独学やサークルで学び、Unityでのチーム開発を学内で4回、学外で1回経験しました。チーム開発でのGitHubのリポジトリの管理やコンフリクト解消を主導した経験があります。
+そして、AdobeXDやBlenderを使用して必要な素材を作成することもあります。C/C++/javaは授業で習いました。
 
 ## ピタッとダンス
 
 開発時期　2022/2/1 ~ 2022/2/26  
 開発期間　約3週間　　開発環境　Unity　Visualstudio 2019　GitHub　SourceTree　Miro  
+プラットフォーム　PC  
 ※現在はゲームリンクがありません※  
 
 担当箇所：  
@@ -35,6 +37,7 @@ Photonによるオブジェクトの同期処理
 
 開発時期　2022/5/2 ~ 2022/5/8  
 開発期間　1週間   　開発環境　Unity　Visualstudio 2019  
+プラットフォーム　PC  
 ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)  
 
 担当箇所：  
@@ -57,7 +60,8 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 
 
 ## 開発中のVRゲーム
-開発時期　2022/3/25 ~   開発中　　開発環境　Unity　Visualstudio2019  OculusQuest2
+開発時期　2022/3/25 ~   開発中　　開発環境　Unity　Visualstudio2019　OculusQuest2  
+プラットフォーム　PCVR    
 
 
 ![VR001](https://user-images.githubusercontent.com/74404144/172282540-12a9dead-2c8d-4484-b939-7acd3c37ed36.gif)
@@ -74,6 +78,7 @@ OpenXRを利用してOculusQuest2での開発をしています。  操作方法
 
 開発時期　2022/1/28 ~ 2022/1/30  
 開発期間　3日間　　開発環境　Unity　Visualstudio 2017　GitHub　SourceTree　Miro  Slack  
+プラットフォーム　PC  
 ゲームページへのリンクは[**こちら**](https://globalgamejam.org/2022/games/sweeteat-5)  
 
 担当箇所：  
@@ -94,6 +99,7 @@ OpenXRを利用してOculusQuest2での開発をしています。  操作方法
 
 開発時期　2021/11/11 ~ 2022/1/20  
 開発期間　約2か月 　 開発環境　Unity　Visualstudio 2017  
+プラットフォーム　PC  
 ページは[**こちら**](https://github.com/sukeU/MeiteiTrampoline)  
 
 ![](https://user-images.githubusercontent.com/74404144/171369432-a72d01c2-df60-41b4-b6cb-297ce29e4f37.gif)  
