@@ -13,7 +13,7 @@ UnityとC#は独学やサークルで学び、Unityでのチーム開発を学�
 
 開発時期　2022/2/1 ~ 2022/2/26  
 開発期間　約3週間　　開発環境　Unity　VisualStudio 2019　GitHub　SourceTree　Miro  
-プラットフォーム　PCブラウザ
+プラットフォーム　PCブラウザ  
 GitHubページは[**こちら**](https://github.com/sukeU/2022Rteam)
 
 担当箇所：  
