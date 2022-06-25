@@ -39,7 +39,7 @@ Photonによるオブジェクトの同期処理
 ## C.U.B.E
 
 開発時期　2022/5/2 ~ 2022/5/8  
-開発期間　1週間   　開発環境　Unity　VisualStudio 2019  adobeXD
+開発期間　1週間   　開発環境　Unity　VisualStudio 2019　adobeXD  
 プラットフォーム　PC  
 ゲームページへのリンクは[**こちら**](https://unityroom.com/games/c_u_b_e)  
 
