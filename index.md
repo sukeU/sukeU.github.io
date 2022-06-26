@@ -63,7 +63,7 @@ Unityroomで開催されていたゲームジャムに投稿した作品です�
 
 
 ## 開発中のVRゲーム
-開発時期　2022/3/25 ~   開発中　　開発環境　Unity　VisuaStudio 2019　OculusQuest2  
+開発時期　2022/3/25 ~   開発中　　開発環境　Unity　VisuaStudio 2019　Blender　OculusQuest2  
 プラットフォーム　PCVR    
 
 担当箇所：  
@@ -84,7 +84,7 @@ OpenXRとOculusQuest2での開発をしています。
 ## Sweeteat
 
 開発時期　2022/1/28 ~ 2022/1/30  
-開発期間　3日間　　開発環境　Unity　VisualStudio 2017　GitHub　SourceTree　Miro  Slack  
+開発期間　3日間　　開発環境　Unity　VisualStudio 2017　Blender　GitHub　SourceTree　Miro  Slack  
 プラットフォーム　PC  
 ゲームページへのリンクは[**こちら**](https://globalgamejam.org/2022/games/sweeteat-5)  
 
@@ -105,7 +105,7 @@ OpenXRとOculusQuest2での開発をしています。
 ## 泥酔トランポリン
 
 開発時期　2021/11/11 ~ 2022/1/20  
-開発期間　約2か月 　 開発環境　Unity　VisualStudio 2017  
+開発期間　約2か月 　 開発環境　Unity　VisualStudio 2017  AdobeXD  
 プラットフォーム　PC  
 GitHubページは[**こちら**](https://github.com/sukeU/MeiteiTrampoline)  
 
